@@ -4,7 +4,7 @@
 
 Wealthy people have someone who watches their bills, renewals and paperwork. Everyone else does it alone, badly and late. Steward is an agent that does it for you, and is built so you can trust it with money and private data.
 
-**Status:** 🚧 Work in progress. Hackathon submission due **3 Dec 2026**. This README describes the plan and design; the checklist at the bottom is updated as features land.
+**Status:** 🚧 Work in progress. This README describes the plan and design; the checklist at the bottom is updated as features land.
 
 **Team:**
 - `Aditya Ghadi`: system design, agent, policy engine, and implementation
